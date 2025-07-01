@@ -15,9 +15,6 @@ em fim concluir esse que pra mim foi um grande desafio ao longo desses 2 meses d
 
 ![ImagemSistema](public/imagemdosistema.png)
 
-## 📲Video do Sistema
-<a>https://www.linkedin.com/feed/update/urn:li:activity:6932067784465993728/</a>
-
 ## 💡Técnologias
 - ReactJS
 - NextJs
